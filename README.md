@@ -1,3 +1,6 @@
+mi-diary/
+├── index.html ← ← ← これが一番上にある
+└── README.md
 <!DOCTYPE html>
 <html lang="ja">
 <head>
